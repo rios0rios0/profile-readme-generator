@@ -40,7 +40,7 @@
     "@styled-icons/feather": "^10.34.0",
     "framer-motion": "^6.2.4",
     "html-prettify": "^1.0.5",
-    "next": "^12.1.6",
+    "next": "^13.5.0",
     "next-compose-plugins": "^2.2.1",
     "next-pwa": "^5.6.0",
     "prismjs": "^1.27.0",
